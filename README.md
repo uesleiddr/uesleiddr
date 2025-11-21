@@ -1,20 +1,71 @@
-## Bem-vindo(a) ao perfil do Uesleiddr 😁
+## 👋 Olá! Seja bem-vindo(a) ao meu perfil!
 
- <div>
-   <a href="https://github.com/uesleiddr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uesleiddr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uesleiddr&layout=compact&langs_count=6&theme=tokyonight"/>
+Sou o **Ueslei Oliveira Souza**, estagiário em Desenvolvimento de Software e apaixonado por tecnologia.  
+Atualmente trabalho e estudo diariamente para evoluir como desenvolvedor, com foco em:
+
+- **Elixir & Phoenix (Stack principal do estágio)**
+- **Python (estudos paralelos)**
+- **Bancos de Dados (SQL e modelagem)**
+- **Fundamentos de programação e boas práticas**
+
+Busco sempre melhorar minhas habilidades e conquistar minha primeira vaga efetiva na área de TI.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/uesleiddr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uesleiddr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uesleiddr&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
-    
+
+---
+
+### 🛠️ Tecnologias que uso e estudo
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- Elixir -->
+  <img align="center" alt="Elixir" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+
+  <!-- Phoenix -->
+  <img align="center" alt="Phoenix" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
+
+  <!-- Python -->
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <!-- JavaScript -->
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <!-- HTML -->
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <!-- CSS -->
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- SQL -->
+  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
 </div>
- 
-<br>
- 
- 
-<div> 
-  <a href="https://www.linkedin.com/in/ueslei-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
+
+### 🌱 Sobre mim
+- 🎓 Estagiário em Desenvolvimento de Software  
+- 💜 Trabalhando com **Elixir + Phoenix** no dia a dia  
+- 🐍 Estudando **Python** para análise de dados e automações  
+- 🗄️ Aprimorando meu conhecimento em **SQL, consultas, modelagem e bancos de dados**  
+- 📘 Sempre buscando evoluir como profissional na área de TI  
+
+---
+
+### 🌎 Onde me encontrar
+<div>
+  <a href="https://www.linkedin.com/in/ueslei-souza/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
+---
+
+✨ *“Desenvolvendo um pouco todos os dias — a evolução vem com consistência.”*
